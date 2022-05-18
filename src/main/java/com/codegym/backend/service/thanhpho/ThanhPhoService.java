@@ -1,4 +1,4 @@
-package com.codegym.backend.service;
+package com.codegym.backend.service.thanhpho;
 
 import com.codegym.backend.model.ThanhPho;
 import com.codegym.backend.repository.IThanhPhoRepository;

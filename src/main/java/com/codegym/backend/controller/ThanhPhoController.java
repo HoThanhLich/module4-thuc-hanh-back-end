@@ -1,7 +1,7 @@
 package com.codegym.backend.controller;
 
 import com.codegym.backend.model.ThanhPho;
-import com.codegym.backend.service.IThanhPhoService;
+import com.codegym.backend.service.thanhpho.IThanhPhoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
